@@ -1,6 +1,6 @@
 {
   "name": "i18next-cli",
-  "version": "1.42.10",
+  "version": "1.42.10-lineaje-01",
   "description": "A unified, high-performance i18next CLI.",
   "type": "module",
   "bin": {
@@ -43,9 +43,15 @@
     "cli"
   ],
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/i18next/i18next-cli.git"
+    "url": "https://github.com/lineaje-labs-gos/i18next-i18next-cli"
   },
   "homepage": "https://github.com/i18next/i18next-cli",
   "bugs": {
