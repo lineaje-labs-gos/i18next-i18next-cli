@@ -1,6 +1,6 @@
 {
   "name": "i18next-cli",
-  "version": "1.42.10-lineaje-01",
+  "version": "1.42.10-lineaje-02",
   "description": "A unified, high-performance i18next CLI.",
   "type": "module",
   "bin": {
